@@ -1,0 +1,5 @@
+ls -> lista arquivos
+cd -> navega entre diretórios
+pw -> mostra a localização física da diretório (caminho)
+cat -> exibe o que tem dentro do arquivo com extensão .txt no diretório de rede
+rm -rf .git/ -> remove o git da pasta mapeada
