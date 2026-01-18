@@ -1,0 +1,6 @@
+Exit
+Amanhã
+Pronto
+
+Ctrl + o -> salva no nano dentro do terminal
+Ctrl + x -> serve para fechar o arquivo no terminal
