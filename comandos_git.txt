@@ -2,5 +2,25 @@ Exit
 Amanhã
 Pronto
 
+git init . -> cria um repo git na pasta atual
+git status -> Exibe o status do trabalho de cada arquivo
+git add nome_arquivo -> adiciona o arquivo a ser commitado
+git commit -m -> "Observação inclusa no comite"
+git log -> exibe os logs dos arquivos commitados
+git diff <nome do arquivo>
+
 Ctrl + o -> salva no nano dentro do terminal
 Ctrl + x -> serve para fechar o arquivo no terminal
+
+
+## FLUXO DE TRABALHO
+
+1. Criar diretório do projeto
+2. Iniciar o git dentro do diretório criado (git init.)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivos>
+6. git status
+7. git commit -m "Mensagem do processo"
+8. git status
+9. Volta para o passo 3.
