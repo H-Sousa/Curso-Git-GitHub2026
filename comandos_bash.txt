@@ -5,3 +5,8 @@ cat -> exibe o que tem dentro do arquivo com extensão .txt no diretório de red
 rm -rf .git/ -> remove o git da pasta mapeada
 git status -> exibe o status do que foi modificado na pasta com .git/
 mv -> usado para mover ou renomear o nome de uma pasta
+
+alt
+Ctrl
+tab
+Shift
